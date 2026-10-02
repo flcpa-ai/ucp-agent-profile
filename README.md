@@ -8,7 +8,7 @@ checkout or orders.
 
 Served through jsDelivr, pinned to a commit:
 
-https://cdn.jsdelivr.net/gh/FLCPA/ucp-agent-profile@abec1e8e688589b63fe9d8b471eef6b9971c431d/flcpa-catalog-agent.json
+https://cdn.jsdelivr.net/gh/flcpa-ai/ucp-agent-profile@abec1e8e688589b63fe9d8b471eef6b9971c431d/flcpa-catalog-agent.json
 
 The UCP spec requires profiles to be served with `Cache-Control: public, max-age>=60` and Shopify
 also requires `Content-Type: application/json`. jsDelivr meets both. GitHub Pages does not (it sends
